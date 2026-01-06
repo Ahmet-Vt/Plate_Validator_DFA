@@ -13,7 +13,7 @@ This project validates Turkish vehicle license plates by implementing a finite s
 ### Turkish License Plate Format
 Turkish car plates typically follow this pattern:
 - **2 Number** (region code)
-- **1-3 letters** (sequential number)
+- **1-3 letters**
 - **if 1 letter => 2-3 number** 
 - **if 2 letter => 3-4 number**
 - **if 3 letter => 4-5 number** 
